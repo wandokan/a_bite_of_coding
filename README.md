@@ -21,3 +21,14 @@
    1. [PyTorch](https://pytorch.org/)
    2. [Stanford CS224N](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
+### Project 2：Transformer（PyTorch）。
+
+[ABC-Transformer](https://github.com/wandokan/ABC-Transformer)
+
+选自Harvard NLP。对Transformer的经典复现。
+
+参考资料
+   1. [PyTorch](https://pytorch.org/)
+   2. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+   3. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
